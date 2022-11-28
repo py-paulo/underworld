@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,7 +115,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: slam with VFX_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 270
+        width: 31
+        height: 17
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 19, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d632666959ab42b479f999a878c26
+      internalID: -1454629680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a44218b6f79754a9c8b563a6eaf0fa
+      internalID: 1195537650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8867b031380f0494ba049a72d73a67f7
+      internalID: -2022995703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6a6faab0d2020479a6a55d2001e0d1
+      internalID: -1391515248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 17, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b212031d7aac1834281da4d240503671
+      internalID: 1515615206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 120
+        width: 55
+        height: 27
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 18, y: 0, z: 24, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef181ffa5dd6e449829bd9b71d390d
+      internalID: 561875521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 90
+        width: 41
+        height: 29
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 6, y: 0, z: 22, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39014d5ec2e504da6a4a134a5990c6
+      internalID: -963600912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 55
+        width: 34
+        height: 22
+      alignment: 9
+      pivot: {x: 0.17, y: 0.5}
+      border: {x: 0, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71870223d08e848994cdcaadf04511
+      internalID: 374448105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 26
+        width: 41
+        height: 21
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 8, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e0bb67810ba749846bf36a22b7fef
+      internalID: 1784082744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam with VFX_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 34
+        height: 17
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 24, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d902911910c74dac2493b87382c81
+      internalID: 601247211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +336,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slam with VFX_5: 561875521
+      slam with VFX_0: -1454629680
+      slam with VFX_11: 601247211
+      slam with VFX_6: -150526549
+      slam with VFX_9: 374448105
+      slam with VFX_2: -2022995703
+      slam with VFX_10: 1784082744
+      slam with VFX_1: 1195537650
+      slam with VFX_4: 1515615206
+      slam with VFX_8: -963600912
+      slam with VFX_7: 304096499
+      slam with VFX_3: -1391515248
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

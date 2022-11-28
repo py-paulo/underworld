@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,7 +115,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: shuffe(move)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 19, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb125ddcba7994b80eb55dd36d1d46
+      internalID: -681994264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuffe(move)_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 180
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 19, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9354a60979f5fd4dbb062b915d41772
+      internalID: -999439045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuffe(move)_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c8fab006bf2a419304f0b004de602
+      internalID: -1237331191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuffe(move)_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e424c17f5f47f46a0462c88f2960eb
+      internalID: 1265454427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuffe(move)_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 17, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59fe58773913a648a85ee4bf85a35ea
+      internalID: -394401606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuffe(move)_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd46a8f478036e4ba980f4c7fbb4d7d
+      internalID: 1203858063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuffe(move)_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 19, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b824924fd9660b44bac7cc9dec855fb
+      internalID: 2126937064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuffe(move)_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 19, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096ee00c3e99b24babeb843b89fb382
+      internalID: -898248461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +294,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shuffe(move)_1: -999439045
+      shuffe(move)_2: -1237331191
+      shuffe(move)_0: -681994264
+      shuffe(move)_7: -898248461
+      shuffe(move)_5: 1203858063
+      shuffe(move)_3: 1265454427
+      shuffe(move)_6: 2126937064
+      shuffe(move)_4: -394401606
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
