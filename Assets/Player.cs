@@ -88,6 +88,12 @@ public class Player : MonoBehaviour
             anim.SetBool("jump", false);
             anim.SetBool("fall", false);
         }
+
+        if (collision.gameObject.tag == "Fox")
+        {
+            GameController.instance.ShowGameOver();
+            Destroy(gameObject);
+        }
     }
 
     void OnCollisionExit2D(Collision2D collision)
@@ -96,5 +102,11 @@ public class Player : MonoBehaviour
         {
             isJumping = true;
         }
+    }
+
+    void OnBecameInvisible()
+    {
+        Destroy(this.gameObject);
+        GameController.instance.ShowGameOver();
     }
 }
